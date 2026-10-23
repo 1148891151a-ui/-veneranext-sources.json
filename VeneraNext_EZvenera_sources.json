@@ -1,0 +1,166 @@
+[
+  {
+    "name": "拷贝漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/copy_manga.js",
+    "version": "1.4.2"
+  },
+  {
+    "name": "Komiic",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/komiic.js",
+    "version": "1.0.3"
+  },
+  {
+    "name": "包子漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/baozi.js",
+    "version": "1.1.6"
+  },
+  {
+    "name": "Picacg",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/picacg.js",
+    "version": "1.0.5"
+  },
+  {
+    "name": "nhentai",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/nhentai.js",
+    "version": "1.0.8"
+  },
+  {
+    "name": "紳士漫畫",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/wnacg.js",
+    "version": "1.0.4",
+    "description": "不能使用时请尝试更换 URL"
+  },
+  {
+    "name": "ehentai",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/ehentai.js",
+    "version": "1.1.8"
+  },
+  {
+    "name": "禁漫天堂",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/jm.js",
+    "version": "1.4.0",
+    "description": "不能使用时请尝试切换分流"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/manga_dex.js",
+    "version": "1.1.0",
+    "description": "原仓库说明：暂不支持账号功能"
+  },
+  {
+    "name": "爱看漫",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/ikmmh.js",
+    "version": "1.0.5"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/shonen_jump_plus.js",
+    "version": "1.1.1"
+  },
+  {
+    "name": "hitomi.la",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/hitomi.js",
+    "version": "1.1.2"
+  },
+  {
+    "name": "comick",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/comick.js",
+    "version": "1.2.0"
+  },
+  {
+    "name": "优酷漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/ykmh.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "再漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/zaimanhua.js",
+    "version": "1.0.2"
+  },
+  {
+    "name": "漫画柜",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/manhuagui.js",
+    "version": "1.2.1"
+  },
+  {
+    "name": "漫蛙吧",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/manwaba.js",
+    "version": "1.0.2"
+  },
+  {
+    "name": "Lanraragi",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/lanraragi.js",
+    "version": "1.1.0"
+  },
+  {
+    "name": "Komga",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/komga.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "カドコミ",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/comic_walker.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "漫画1234",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/mh1234.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "CCC追漫台",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/ccc.js",
+    "version": "1.0.1"
+  },
+  {
+    "name": "GoDa漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/goda.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "18漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/mh18.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "漫小肆",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/mxs.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "漫画人",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/manhuaren.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "H-Comic",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/hcomic.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "jcomic.net",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/jcomic.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "热辣漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/hot_manga.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "Kavita",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/kavita.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "MangaPlus",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/manga_plus.js",
+    "version": "1.0.0"
+  },
+  {
+    "name": "嗨皮漫画",
+    "url": "https://raw.githubusercontent.com/WEP-56/EZvenera-config/main/happy.js",
+    "version": "1.0.0",
+    "description": "原仓库说明：中国大陆及日韩 IP 可能遇到 403"
+  }
+]
